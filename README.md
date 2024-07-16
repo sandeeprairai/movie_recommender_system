@@ -34,7 +34,7 @@ where \(A\) and \(B\) are the vectors representing the movies.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/movie-recommender-system.git
+    git clone https://github.com/sandeeprairai/movie_recommender_system.git
     cd movie-recommender-system
     ```
 
