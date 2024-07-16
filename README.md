@@ -55,8 +55,8 @@ where \(A\) and \(B\) are the vectors representing the movies.
 
 ### Output
 
-![Movie Recommendations Input](movie_recomm1.png)
-![Movie Recommendations Output](movie_recomm2.png)
+![Movie Recommendations Output](movie_recomm1.PNG)
+![Movie Recommendations Output](movie_recomm2.PNG)
 
 ## Contributing
 
