@@ -10,13 +10,6 @@ The movie recommender system suggests movies to users based on their viewing his
 
 Cosine similarity is a metric that measures the cosine of the angle between two non-zero vectors. It is used to determine how similar two items are, regardless of their size. In this project, it helps in identifying similar movies based on their features.
 
-**Formula:**
-\[ 
-\text{cosine\_similarity} = \frac{A \cdot B}{\|A\| \|B\|} 
-\]
-
-where \(A\) and \(B\) are the vectors representing the movies.
-
 ## Features
 
 - User preference analysis
